@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560815643669.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3754576610",
+    "id" : "579168FA",
+    "lastKnownWriteTime" : 1560824660,
+    "last_content_update" : 1560824660273,
+    "path" : "~/Documents/RMDBlog/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "0,40",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
